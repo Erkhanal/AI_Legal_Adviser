@@ -48,6 +48,8 @@ The primary aim of this research is to develop an LLM-based conversational AI sy
 ### Analysis Approach:    
 <div align="justify">To tackle this problem effectively, I have established a structured analysis approach. This research adopts a Mixed-Method Approach for both system development and evaluation:</div><br>
 
+<div align="justify">
+ 
 **1. Qualitative Approach:**
 - Legal Language Analysis: Review Nepali legal texts, including the Nepali Constitution and laws, to understand the legal terminology, structure, and context.
 - Expert Consultation: Conduct interviews with legal professionals to identify accessibility challenges and user needs. 
@@ -65,10 +67,11 @@ The primary aim of this research is to develop an LLM-based conversational AI sy
 - Vectorization: Use models like Google's text-embedding-004 for semantic understanding and store vectors in Pinecone for fast retrieval.
  </div>
 
-**5.Testing and Validation:**
+**5. Testing and Validation:**
 - Evaluation Metrics: Use cosine similarity, F1 score, BLEU score, and average response time to measure the system’s accuracy and performance. The code for evaluation metrics has been provided in .ipynb file format.
 - User Surveys: Conduct satisfaction surveys to gather qualitative feedback on clarity, usefulness, and overall user experience.
 - Feedback Integration: Incorporate user and expert feedback to iteratively improve response accuracy and conversational quality.
+</div>
 
 ### Features:
 
